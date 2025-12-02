@@ -1,7 +1,7 @@
 # Welcome to the Applied HCAI Meetings
 
 
-### Time: Fridays, 12:00 PM – 1:00 PM PST - Location: (online)
+### Time: Fridays, 12:00 PM – 1:00 PM PST (tentative) - Location: (online)
 
 
 ### Our goal is to discuss recent publications and foundational concepts in Applied Human-Centered AI.
